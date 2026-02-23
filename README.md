@@ -77,7 +77,7 @@ Desarrollado como proyecto final universitario aplicando buenas prácticas de in
 ### Estructura (PostgreSQL)
 
 ```sql
-usuarios        -- Autenticación y roles (admin / vendedor)
+usuarios        -- Autenticación
 proveedores     -- Directorio de proveedores
 productos       -- Catálogo con precios y stock
 ventas          -- Cabecera de cada transacción de venta
